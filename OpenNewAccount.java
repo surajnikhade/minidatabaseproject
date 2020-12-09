@@ -28,7 +28,7 @@ bal=Double.parseDouble(br.readLine());
 
 Class.forName("com.mysql.cj.jdbc.Driver");
 
-con=DriverManager.getConnection("jdbc:mysql://localhost:3306/sharayudb?user=root&password=123&useSSL=false");
+con=DriverManager.getConnection("jdbc:mysql://localhost:3306/banking?user=root&password=123&useSSL=false");
 
 
 st=con.createStatement();
