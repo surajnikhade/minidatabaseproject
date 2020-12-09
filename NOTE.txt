@@ -1,1 +1,1 @@
-"123" in connectivity statement means password of you database ;
+"123" in connectivity statement means password of your database ;
